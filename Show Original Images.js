@@ -16,9 +16,9 @@
 // @include         http://*harane.com/*
 // @include         http://*karagrapher.com/*
 // @include         http://aprilgirls.com/*
-// @include			http://binnie.kr/*
-// @include			http://yooamyangel.com/*
-// @include			http://ohmygirl.kr/*
+// @include         http://binnie.kr/*
+// @include         http://yooamyangel.com/*
+// @include         http://ohmygirl.kr/*
 // ==/UserScript==
 
 var tags = document.getElementsByTagName('img');
