@@ -1,3 +1,4 @@
+
 // ==UserScript==
 // @name            Show Original Images
 // @description     Displays the original image instead of the resized image. (daum, tistory)
