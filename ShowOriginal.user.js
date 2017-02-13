@@ -4,7 +4,7 @@
 // @namespace       http://gallog.dcinside.com/sweetlime
 // @description     Displays the original image instead of the resized image. (daum, tistory)
 // @version         0.1
-// @updateURL       https://raw.githubusercontent.com/sweetlime/Show-Original-Images/master/ShowOriginalImages.js
+// @updateURL       https://github.com/sweetlime/Show-Original-Images/raw/master/ShowOriginal.user.js
 // @author          sweetlime
 // @include         http://*blog.daum.net/*
 // @include         http://*cafe.daum.net/*
@@ -30,7 +30,7 @@ for (var i = 0; i < tags.length; i++) {
         if(tags[i].src.match('uf.tistory.com/image')||tags[i].src.match('uf.daum.net/image')){
                 var link = document.createElement('img');
                 link.src = tags[i].src.replace('image', 'original');
-                link.style='width: 100%; height: auto;';
+                link.style='width: 100%; height: auto; clear:both;';
                 var pimg=tags[i].parentNode;
                 pimg.replaceChild(link, tags[i]);
         }
