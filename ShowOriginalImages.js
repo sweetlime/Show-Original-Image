@@ -3,7 +3,7 @@
 // @name            Show Original Images
 // @description     Displays the original image instead of the resized image. (daum, tistory)
 // @version         0.1
-// @match           https://raw.githubusercontent.com/sweetlime/Show-Original-Images/master/ShowOriginalImages.js
+// @updateURL       https://raw.githubusercontent.com/sweetlime/Show-Original-Images/master/ShowOriginalImages.js
 // @author          sweetlime
 // @include         http://*blog.daum.net/*
 // @include         http://*cafe.daum.net/*
