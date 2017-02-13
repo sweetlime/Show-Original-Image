@@ -1,6 +1,7 @@
 
 // ==UserScript==
 // @name            Show Original Images
+// @namespace       http://gallog.dcinside.com/sweetlime
 // @description     Displays the original image instead of the resized image. (daum, tistory)
 // @version         0.1
 // @updateURL       https://raw.githubusercontent.com/sweetlime/Show-Original-Images/master/ShowOriginalImages.js
