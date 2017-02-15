@@ -23,6 +23,7 @@
 // @include         http://*binnie.kr/*
 // @include         http://*yooamyangel.com/*
 // @include         http://*ohmygirl.kr/*
+// @include         http://*20150421.com/*
 // ==/UserScript==
 
 var tags = document.getElementsByTagName('img');
