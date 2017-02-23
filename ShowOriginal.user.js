@@ -25,6 +25,17 @@
 // @include         http://*ohmygirl.kr/*
 // @include         http://*20150421.com/*
 // @include         http://*아린.com/*
+// @include         http://*xn--sy2bt5s.com/*
+// @include         http://*940728.com/*
+// @include         http://*950917.net/*
+// @include         http://*김지호.com/*
+// @include         http://*xn--4k0bn53cvzi.com/*
+// @include         http://*yooa.kr/*
+// @include         http://*19950122.com/*
+// @include         http://*1997-0909.net/*
+// @include         http://*19950917.net/*
+// @include         http://*dothome.co.kr/*
+// @include         http://*kimmimi.kr/*
 // ==/UserScript==
 
 var tags = document.getElementsByTagName('img');
