@@ -24,6 +24,7 @@
 // @include         http://*yooamyangel.com/*
 // @include         http://*ohmygirl.kr/*
 // @include         http://*20150421.com/*
+// @include         http://*아린.com/*
 // ==/UserScript==
 
 var tags = document.getElementsByTagName('img');
